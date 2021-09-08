@@ -1,0 +1,1 @@
+Project for the new odin project. It contains a list of recipes.
